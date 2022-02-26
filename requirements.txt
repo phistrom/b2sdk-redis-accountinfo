@@ -1,5 +1,5 @@
 arrow==0.15.7
-b2sdk==1.1.0
+b2sdk==1.14.1
 certifi==2020.6.20
 chardet==3.0.4
 funcsigs==1.0.2
